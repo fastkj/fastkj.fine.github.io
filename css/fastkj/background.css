@@ -1,0 +1,15 @@
+
+
+/*分割线———文章边距——————————————————————————————————————————————————结束—————————————————————————*/
+
+
+#footer-wrap {
+  position: relative;
+  padding: 40px 20px;
+  color: #565656;
+  text-align: center;
+}
+#footer-wrap a {
+  color: #565656;
+}
+
